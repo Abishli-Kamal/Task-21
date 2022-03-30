@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Task-collection\Task-collection\bin\Debug\netcoreapp3.1\Task-collection.exe
+C:\Users\user\Desktop\Task-collection\Task-collection\bin\Debug\netcoreapp3.1\Task-collection.deps.json
+C:\Users\user\Desktop\Task-collection\Task-collection\bin\Debug\netcoreapp3.1\Task-collection.runtimeconfig.json
+C:\Users\user\Desktop\Task-collection\Task-collection\bin\Debug\netcoreapp3.1\Task-collection.runtimeconfig.dev.json
+C:\Users\user\Desktop\Task-collection\Task-collection\bin\Debug\netcoreapp3.1\Task-collection.dll
+C:\Users\user\Desktop\Task-collection\Task-collection\bin\Debug\netcoreapp3.1\Task-collection.pdb
+C:\Users\user\Desktop\Task-collection\Task-collection\obj\Debug\netcoreapp3.1\Task-collection.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Task-collection\Task-collection\obj\Debug\netcoreapp3.1\Task-collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Task-collection\Task-collection\obj\Debug\netcoreapp3.1\Task-collection.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Task-collection\Task-collection\obj\Debug\netcoreapp3.1\Task-collection.AssemblyInfo.cs
+C:\Users\user\Desktop\Task-collection\Task-collection\obj\Debug\netcoreapp3.1\Task-collection.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Task-collection\Task-collection\obj\Debug\netcoreapp3.1\Task-collection.dll
+C:\Users\user\Desktop\Task-collection\Task-collection\obj\Debug\netcoreapp3.1\Task-collection.pdb
+C:\Users\user\Desktop\Task-collection\Task-collection\obj\Debug\netcoreapp3.1\Task-collection.genruntimeconfig.cache

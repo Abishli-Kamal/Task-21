@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Task-Generics\Task-Generics\obj\Debug\netcoreapp3.1\Task-Generics.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Task-Generics\Task-Generics\obj\Debug\netcoreapp3.1\Task-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Task-Generics\Task-Generics\obj\Debug\netcoreapp3.1\Task-Generics.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Task-Generics\Task-Generics\obj\Debug\netcoreapp3.1\Task-Generics.AssemblyInfo.cs
+C:\Users\user\Desktop\Task-Generics\Task-Generics\obj\Debug\netcoreapp3.1\Task-Generics.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Task-Generics\Task-Generics\bin\Debug\netcoreapp3.1\Task-Generics.exe
+C:\Users\user\Desktop\Task-Generics\Task-Generics\bin\Debug\netcoreapp3.1\Task-Generics.deps.json
+C:\Users\user\Desktop\Task-Generics\Task-Generics\bin\Debug\netcoreapp3.1\Task-Generics.runtimeconfig.json
+C:\Users\user\Desktop\Task-Generics\Task-Generics\bin\Debug\netcoreapp3.1\Task-Generics.runtimeconfig.dev.json
+C:\Users\user\Desktop\Task-Generics\Task-Generics\bin\Debug\netcoreapp3.1\Task-Generics.dll
+C:\Users\user\Desktop\Task-Generics\Task-Generics\bin\Debug\netcoreapp3.1\Task-Generics.pdb
+C:\Users\user\Desktop\Task-Generics\Task-Generics\obj\Debug\netcoreapp3.1\Task-Generics.dll
+C:\Users\user\Desktop\Task-Generics\Task-Generics\obj\Debug\netcoreapp3.1\Task-Generics.pdb
+C:\Users\user\Desktop\Task-Generics\Task-Generics\obj\Debug\netcoreapp3.1\Task-Generics.genruntimeconfig.cache
